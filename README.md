@@ -26,4 +26,3 @@ The dataset contains agriculture and weather data. It generally includes:
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Smart-Crop-Recommendation-System.git
