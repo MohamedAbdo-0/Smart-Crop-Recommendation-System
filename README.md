@@ -24,5 +24,3 @@ The dataset contains agriculture and weather data. It generally includes:
 - `rainfall` - Rainfall in mm
 
 ## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
